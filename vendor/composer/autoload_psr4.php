@@ -16,6 +16,7 @@ return array(
     'Symfony\\Component\\Serializer\\' => array($vendorDir . '/symfony/serializer'),
     'React\\Promise\\' => array($vendorDir . '/react/promise/src'),
     'Psr\\Log\\' => array($vendorDir . '/psr/log/Psr/Log'),
+    'PhpAmqpLib\\' => array($vendorDir . '/php-amqplib/php-amqplib/PhpAmqpLib'),
     'ONGR\\ElasticsearchDSL\\' => array($vendorDir . '/ongr/elasticsearch-dsl/src'),
     'GuzzleHttp\\Stream\\' => array($vendorDir . '/guzzlehttp/streams/src'),
     'GuzzleHttp\\Ring\\' => array($vendorDir . '/guzzlehttp/ringphp/src'),

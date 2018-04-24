@@ -41,6 +41,7 @@ class ComposerStaticInit4c8f2252f33ca5d9ac878de0f8050f7b
         'P' => 
         array (
             'Psr\\Log\\' => 8,
+            'PhpAmqpLib\\' => 11,
         ),
         'O' => 
         array (
@@ -98,6 +99,10 @@ class ComposerStaticInit4c8f2252f33ca5d9ac878de0f8050f7b
         'Psr\\Log\\' => 
         array (
             0 => __DIR__ . '/..' . '/psr/log/Psr/Log',
+        ),
+        'PhpAmqpLib\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/php-amqplib/php-amqplib/PhpAmqpLib',
         ),
         'ONGR\\ElasticsearchDSL\\' => 
         array (
